@@ -1,0 +1,2 @@
+# ggcli
+go generate cli
